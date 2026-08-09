@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Personal Full Stack Project\\Portfolio\\Portfolio_Backend\\Portfolio_Backend\\Portfolio_Backend.csproj": {}
+    "D:\\Personal Full Stack Project\\RemoteProjects\\Portfolio\\Backend\\Portfolio_Backend\\Portfolio_Backend.csproj": {}
   },
   "projects": {
-    "D:\\Personal Full Stack Project\\Portfolio\\Portfolio_Backend\\Portfolio_Backend\\Portfolio_Backend.csproj": {
+    "D:\\Personal Full Stack Project\\RemoteProjects\\Portfolio\\Backend\\Portfolio_Backend\\Portfolio_Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personal Full Stack Project\\Portfolio\\Portfolio_Backend\\Portfolio_Backend\\Portfolio_Backend.csproj",
+        "projectUniqueName": "D:\\Personal Full Stack Project\\RemoteProjects\\Portfolio\\Backend\\Portfolio_Backend\\Portfolio_Backend.csproj",
         "projectName": "Portfolio_Backend",
-        "projectPath": "D:\\Personal Full Stack Project\\Portfolio\\Portfolio_Backend\\Portfolio_Backend\\Portfolio_Backend.csproj",
+        "projectPath": "D:\\Personal Full Stack Project\\RemoteProjects\\Portfolio\\Backend\\Portfolio_Backend\\Portfolio_Backend.csproj",
         "packagesPath": "C:\\Users\\Kumar_Shivam\\.nuget\\packages\\",
-        "outputPath": "D:\\Personal Full Stack Project\\Portfolio\\Portfolio_Backend\\Portfolio_Backend\\obj\\",
+        "outputPath": "D:\\Personal Full Stack Project\\RemoteProjects\\Portfolio\\Backend\\Portfolio_Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kumar_Shivam\\AppData\\Roaming\\NuGet\\NuGet.Config",
